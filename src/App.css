@@ -375,3 +375,12 @@ a:hover {
   padding: 20px;
   align-items: center;
 }
+
+.footer .signature {
+  text-decoration: none;
+  color: white;
+}
+
+.footer .signature:hover {
+  color: rgb(16, 7, 37);
+}

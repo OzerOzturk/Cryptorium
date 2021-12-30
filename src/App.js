@@ -25,8 +25,8 @@ const App = () => {
                 </Layout>
                 <div className="footer">
                     <Typography.Title level={5} style={{color:'white', textAlign:'center'}} >
-                        Cryptorium <br/>
-                        All rights reserved
+                        Cryptorium<br/>
+                        <a className='signature' href="https://www.linkedin.com/in/ozerozturk/">Özer Öztürk</a> | Copyright © 2021 
                     </Typography.Title>
                     <Space>
                         <Link to='/'>Home</Link>
